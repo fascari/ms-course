@@ -1,13 +1,10 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="hr-worker" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="com.fascari.hrworker.Application" />
+  <configuration default="false" name="hr-worker" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
     <module name="hr-worker" />
-    <extension name="coverage">
-      <pattern>
-        <option name="PATTERN" value="com.fascari.hrworker.*" />
-        <option name="ENABLED" value="true" />
-      </pattern>
-    </extension>
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.fascari.hrworker.Application" />
+    <option name="HIDE_BANNER" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
