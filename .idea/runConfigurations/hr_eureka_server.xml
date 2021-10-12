@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="hr-eureka-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="hr-eureka-server" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.fascari.hreurekaserver.Application" />
+    <option name="HIDE_BANNER" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
